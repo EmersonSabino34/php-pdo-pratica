@@ -1,0 +1,8 @@
+{
+    "name":"wdev/php_pdo",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
